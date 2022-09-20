@@ -1,0 +1,24 @@
+:root {
+    --spanish-grey: rgb(147, 145, 150);
+    --medium-champagne: rgb(237, 222, 164);
+    --deep-saffron: rgb(255, 155, 66);
+    --rosewood: rgb(94, 11, 21);
+}
+
+body {
+    background-color: rgb(255, 243, 228);
+}
+
+
+.one-disucssion {
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.add-discussion-form {
+    display: none;
+}
+
+.status-form {
+    all: unset;
+}
